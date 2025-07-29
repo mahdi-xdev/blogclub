@@ -1,16 +1,23 @@
-# blogclub
+---
 
-A new Flutter project.
+## 🎬 نمونه UI
 
-## Getting Started
+<p align="center">
+  <img src="./screenshots/profile.jpg" width="300" alt="Profile Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./screenshots/home.jpg" width="300" alt="Home Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./screenshots/read.jpg" width="300" alt="Read Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./screenshots/start.jpg" width="300" alt="Start Screen" />
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ ویژگی‌ها
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- نمونه UI طراحی شده در طول یادگیری  
+- جابه جایی صفحات مدیریت شده  
+- پردازش گرافیکی بهینه شده
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
